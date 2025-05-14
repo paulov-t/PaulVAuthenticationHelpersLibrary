@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaulVAuthenticationHelpersLibrary", "PaulVAuthenticationHelpersLibrary\PaulVAuthenticationHelpersLibrary.csproj", "{31F53899-7F00-469A-B3F3-6CC9F1B8F3D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F53899-7F00-469A-B3F3-6CC9F1B8F3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F53899-7F00-469A-B3F3-6CC9F1B8F3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F53899-7F00-469A-B3F3-6CC9F1B8F3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F53899-7F00-469A-B3F3-6CC9F1B8F3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A98983-96AE-401F-AB6A-38B721ADEA26}
+	EndGlobalSection
+EndGlobal
