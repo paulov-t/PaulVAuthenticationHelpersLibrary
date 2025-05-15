@@ -4,7 +4,7 @@
 </div>
 
 ## About The Project
-This project is to be a concise reusable library that can be used by various projects that do the same authentication flow or configuration. 
+This project is to designed be a concise reusable library that can be used by various projects that do the same authentication flow or configuration. 
 
 ## Support
 - Net Standard 2.0 (for .NET Framework 4.6.1 and later)
